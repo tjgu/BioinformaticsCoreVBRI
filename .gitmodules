@@ -1,0 +1,7 @@
+[submodule "B4galt1_data_analysis"]
+	path = B4galt1_data_analysis
+	url = git@github.com:tjgu/B4galt1_data_analysis.git
+[submodule "submodules/B4galt1_data_analysis"]
+	path = submodules/B4galt1_data_analysis
+	url = git@github.com:tjgu/B4galt1_data_analysis.git
+	branch = main
