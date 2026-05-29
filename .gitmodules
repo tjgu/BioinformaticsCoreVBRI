@@ -5,3 +5,6 @@
 	path = submodules/B4galt1_data_analysis
 	url = git@github.com:tjgu/B4galt1_data_analysis.git
 	branch = main
+[submodule "HoffmeisterLab"]
+	path = HoffmeisterLab
+	url = git@github.com:tjgu/HoffmeisterLab.git
