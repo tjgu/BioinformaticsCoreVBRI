@@ -1,0 +1,3 @@
+[submodule "submodules/HoffmeisterLab"]
+	path = submodules/HoffmeisterLab
+	url = git@github.com:tjgu/HoffmeisterLab.git
