@@ -1,3 +1,6 @@
 [submodule "submodules/HoffmeisterLab"]
 	path = HoffmeisterLab
 	url = git@github.com:tjgu/HoffmeisterLab.git
+[submodule "LochheadLab"]
+	path = LochheadLab
+	url = https://github.com/tjgu/LochheadLab.git
