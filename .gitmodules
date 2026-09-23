@@ -4,3 +4,6 @@
 [submodule "LochheadLab"]
 	path = LochheadLab
 	url = https://github.com/tjgu/LochheadLab.git
+[submodule "sPTMTracks"]
+	path = sPTMTracks
+	url = https://github.com/tjgu/sPTMTracks.git
